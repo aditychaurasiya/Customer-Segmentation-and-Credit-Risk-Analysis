@@ -60,3 +60,6 @@ The names of the participants in the survey are known only to NORC, which has mo
 | NETWORTH | Total net worth of household, 2019 dollars |
 | NHNFIN | total non-financial assets excluding principal residences, 2019 dollars |
 | NFIN | Total value of non-financial assets held by household, 2019 dollars |
+
+
+The above do not represent the entirety of the features in the dataset but rather commonly used features for this particular project.For details on full glossary and documentation visit the Survey Documentation and Analysis codebook as processed and compiled by the University of California, Berkeley
