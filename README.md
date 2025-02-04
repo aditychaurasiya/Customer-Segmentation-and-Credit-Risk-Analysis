@@ -9,9 +9,9 @@
 
 
 # Overview
-In this [project](https://github.com/sehmilo/Customer-Segmentation-in-the-US/blob/main/fed_reserve.ipynb), I used data obtained from [2019 Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) data from the US Federal Reserve.
+In this project, I used data obtained from [2019 Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) data from the US Federal Reserve.
 
-This [project](https://github.com/sehmilo/Customer-Segmentation-in-the-US/blob/main/fed_reserve.ipynb) is an example of unsupervised learning, specifically **CLUSTERING**. It can be used in commercial contexts for marketing or customer segmentation or in sociological contexts to study social stratification.
+This project is an example of unsupervised learning, specifically **CLUSTERING**. It can be used in commercial contexts for marketing or customer segmentation or in sociological contexts to study social stratification.
 
 Objectives include:
 - Compare characteristics across subgroups using a side-by-side bar chart.
